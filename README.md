@@ -28,9 +28,10 @@ This project is an interactive game where the user tries to guess a randomly gen
 This task improved my understanding of logic building, conditional statements, loops, and user input handling in Python.
 
 FILES USED : 
-
+[satya apsche task 2.py](https://github.com/user-attachments/files/27743445/satya.apsche.task.2.py)
 
 OUTPUTS: 
+<img width="1823" height="985" alt="Image" src="https://github.com/user-attachments/assets/17e0185f-d408-4aa6-b60d-a5e817418475" />
 
 
 
